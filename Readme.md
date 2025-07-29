@@ -1,89 +1,95 @@
-This is the tree that i will be following in this repo , a "✅" will appear which indicates what has been completed. 
+# 📘 Python Fundamentals Learning Path
 
+This repository contains a structured journey to learn Python from the ground up. A ✅ will appear next to each section once completed.
 
-Python_Fundamentals
-├── 1_Basics
-│   ├── 1_Introduction_to_Python
-│   ├── 2_Syntax_and_Indentation
-│   ├── 3_Variables_and_DataTypes
-│   ├── 4_Comments_and_Inputs
-│   └── 5_Type_Conversion
+---
 
-├── 2_Operators_and_Expressions
-│   ├── 1_Arithmetic_Operators
-│   ├── 2_Assignment_Operators
-│   ├── 3_Comparison_Operators
-│   ├── 4_Logical_Operators
-│   ├── 5_Bitwise_Operators
-│   ├── 6_Identity_Operators
-│   └── 7_Membership_Operators
+## 📂 1. Basics
+- [ ] 1_Introduction_to_Python
+- [ ] 2_Syntax_and_Indentation
+- [ ] 3_Variables_and_DataTypes
+- [ ] 4_Comments_and_Inputs
+- [ ] 5_Type_Conversion
 
-├── 3_Control_Structures
-│   ├── 1_If_Else_Statements
-│   ├── 2_Nested_If
-│   ├── 3_Match_Case_(Python_3.10+)
-│   ├── 4_For_Loops
-│   ├── 5_While_Loops
-│   └── 6_Loop_Control_Statements   # break, continue, pass
+## 📂 2. Operators and Expressions
+- [ ] 1_Arithmetic_Operators
+- [ ] 2_Assignment_Operators
+- [ ] 3_Comparison_Operators
+- [ ] 4_Logical_Operators
+- [ ] 5_Bitwise_Operators
+- [ ] 6_Identity_Operators
+- [ ] 7_Membership_Operators
 
-├── 4_Data_Structures
-│   ├── 1_Strings
-│   ├── 2_Lists
-│   ├── 3_Tuples
-│   ├── 4_Sets
-│   ├── 5_Dictionaries
-│   └── 6_Data_Structure_Methods
+## 📂 3. Control Structures
+- [ ] 1_If_Else_Statements
+- [ ] 2_Nested_If
+- [ ] 3_Match_Case_(Python_3.10+)
+- [ ] 4_For_Loops
+- [ ] 5_While_Loops
+- [ ] 6_Loop_Control_Statements  <!-- break, continue, pass -->
 
-├── 5_Functions
-│   ├── 1_Defining_Functions
-│   ├── 2_Arguments_and_Parameters
-│   ├── 3_Return_Values
-│   ├── 4_Default_and_Keyword_Arguments
-│   ├── 5_Lambda_Functions
-│   ├── 6_Variable_Scope
-│   └── 7_Recursion
+## 📂 4. Data Structures
+- [ ] 1_Strings
+- [ ] 2_Lists
+- [ ] 3_Tuples
+- [ ] 4_Sets
+- [ ] 5_Dictionaries
+- [ ] 6_Data_Structure_Methods
 
-├── 6_Modules_and_Packages
-│   ├── 1_Importing_Modules
-│   ├── 2_Creating_Modules
-│   ├── 3_Python_Standard_Library
-│   └── 4_Virtual_Environments
+## 📂 5. Functions
+- [ ] 1_Defining_Functions
+- [ ] 2_Arguments_and_Parameters
+- [ ] 3_Return_Values
+- [ ] 4_Default_and_Keyword_Arguments
+- [ ] 5_Lambda_Functions
+- [ ] 6_Variable_Scope
+- [ ] 7_Recursion
 
-├── 7_Error_Handling
-│   ├── 1_Try_Except_Blocks
-│   ├── 2_Finally_Else
-│   ├── 3_Custom_Exceptions
-│   └── 4_Common_Exceptions
+## 📂 6. Modules and Packages
+- [ ] 1_Importing_Modules
+- [ ] 2_Creating_Modules
+- [ ] 3_Python_Standard_Library
+- [ ] 4_Virtual_Environments
 
-├── 8_Object_Oriented_Programming
-│   ├── 1_Classes_and_Objects
-│   ├── 2_Constructor_and_Destructor
-│   ├── 3_Inheritance
-│   ├── 4_Polymorphism
-│   ├── 5_Encapsulation
-│   └── 6_Special_Methods_(dunder)
+## 📂 7. Error Handling
+- [ ] 1_Try_Except_Blocks
+- [ ] 2_Finally_Else
+- [ ] 3_Custom_Exceptions
+- [ ] 4_Common_Exceptions
 
-├── 9_File_Handling
-│   ├── 1_Reading_Files
-│   ├── 2_Writing_Files
-│   ├── 3_File_Paths
-│   └── 4_With_Context_Manager
+## 📂 8. Object-Oriented Programming
+- [ ] 1_Classes_and_Objects
+- [ ] 2_Constructor_and_Destructor
+- [ ] 3_Inheritance
+- [ ] 4_Polymorphism
+- [ ] 5_Encapsulation
+- [ ] 6_Special_Methods_(dunder)
 
-├── 10_Advanced_Topics
-│   ├── 1_List_Comprehensions
-│   ├── 2_Generators
-│   ├── 3_Iterators
-│   ├── 4_Decorators
-│   ├── 5_Context_Managers
-│   └── 6_Regular_Expressions
+## 📂 9. File Handling
+- [ ] 1_Reading_Files
+- [ ] 2_Writing_Files
+- [ ] 3_File_Paths
+- [ ] 4_With_Context_Manager
 
-├── 11_Pythonic_Thinking
-│   ├── 1_Code_Style_(PEP8)
-│   ├── 2_Using_Enumerate_and_Zip
-│   ├── 3_EAFP_vs_LBYL
-│   └── 4_Useful_Builtins
+## 📂 10. Advanced Topics
+- [ ] 1_List_Comprehensions
+- [ ] 2_Generators
+- [ ] 3_Iterators
+- [ ] 4_Decorators
+- [ ] 5_Context_Managers
+- [ ] 6_Regular_Expressions
 
-├── 12_Practice_and_Projects
-│   ├── 1_Beginner_Exercises
-│   ├── 2_Small_Projects
-│   └── 3_Problem_Solving_Platforms
+## 📂 11. Pythonic Thinking
+- [ ] 1_Code_Style_(PEP8)
+- [ ] 2_Using_Enumerate_and_Zip
+- [ ] 3_EAFP_vs_LBYL
+- [ ] 4_Useful_Builtins
+
+## 📂 12. Practice and Projects
+- [ ] 1_Beginner_Exercises
+- [ ] 2_Small_Projects
+- [ ] 3_Problem_Solving_Platforms
+
+---
+
+✅ Tick the boxes above as you complete each module!

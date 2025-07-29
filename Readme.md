@@ -5,17 +5,17 @@ This repository contains a structured journey to learn Python from the ground up
 ---
 
 ## 📂 1. Basics
-- ✅ 1_Introduction_to_Python
-- ✅ 2_Syntax_and_Indentation
-- ✅ 3_Variables_and_DataTypes
-- ✅ 4_Comments_and_Inputs
-- ✅ 5_Type_Conversion
+- [x] 1_Introduction_to_Python
+- [x] 2_Syntax_and_Indentation
+- [x] 3_Variables_and_DataTypes
+- [x] 4_Comments_and_Inputs
+- [x] 5_Type_Conversion
 
 ## 📂 2. Operators and Expressions
-- ✅ 1_Arithmetic_Operators
-- ✅ 2_Assignment_Operators
-- ✅ 3_Comparison_Operators
-- ✅ 4_Logical_Operators
+- [x] 1_Arithmetic_Operators
+- [x] 2_Assignment_Operators
+- [x] 3_Comparison_Operators
+- [x] 4_Logical_Operators
 - [ ] 5_Bitwise_Operators
 - [ ] 6_Identity_Operators
 - [ ] 7_Membership_Operators

@@ -26,7 +26,7 @@ This repository contains a structured journey to learn Python from the ground up
 - [x] 3_Match_Case_(Python_3.10+)
 - [x] 4_For_Loops
 - [x] 5_While_Loops
-- [ ] 6_Loop_Control_Statements  <!-- break, continue, pass -->
+- [x] 6_Loop_Control_Statements  <!-- break, continue, pass -->
 
 ## 📂 4. Data Structures
 - [ ] 1_Strings

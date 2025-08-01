@@ -18,14 +18,14 @@ This repository contains a structured journey to learn Python from the ground up
 - [x] 4_Logical_Operators
 - [x] 5_Bitwise_Operators
 - [x] 6_Identity_Operators
-- [ ] 7_Membership_Operators
+- [x] 7_Membership_Operators
 
 ## 📂 3. Control Structures
-- [ ] 1_If_Else_Statements
-- [ ] 2_Nested_If
-- [ ] 3_Match_Case_(Python_3.10+)
-- [ ] 4_For_Loops
-- [ ] 5_While_Loops
+- [x] 1_If_Else_Statements
+- [x] 2_Nested_If
+- [x] 3_Match_Case_(Python_3.10+)
+- [x] 4_For_Loops
+- [x] 5_While_Loops
 - [ ] 6_Loop_Control_Statements  <!-- break, continue, pass -->
 
 ## 📂 4. Data Structures

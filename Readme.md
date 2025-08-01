@@ -16,8 +16,8 @@ This repository contains a structured journey to learn Python from the ground up
 - [x] 2_Assignment_Operators
 - [x] 3_Comparison_Operators
 - [x] 4_Logical_Operators
-- [ ] 5_Bitwise_Operators
-- [ ] 6_Identity_Operators
+- [x] 5_Bitwise_Operators
+- [x] 6_Identity_Operators
 - [ ] 7_Membership_Operators
 
 ## 📂 3. Control Structures

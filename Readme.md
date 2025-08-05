@@ -29,8 +29,8 @@ This repository contains a structured journey to learn Python from the ground up
 - [x] 6_Loop_Control_Statements  <!-- break, continue, pass -->
 
 ## 📂 4. Data Structures
-- [ ] 1_Strings
-- [ ] 2_Lists
+- [x] 1_Strings
+- [x] 2_Lists
 - [ ] 3_Tuples
 - [ ] 4_Sets
 - [ ] 5_Dictionaries

@@ -1,6 +1,6 @@
 # 📘 Python Fundamentals Learning Path
 
-This repository contains a structured journey to learn Python from the ground up. A ✅ will appear next to each section once completed.
+This repository contains a structured journey to learn Python from the ground up. A [x] will appear next to each section once completed.
 
 ---
 
@@ -31,9 +31,9 @@ This repository contains a structured journey to learn Python from the ground up
 ## 📂 4. Data Structures
 - [x] 1_Strings
 - [x] 2_Lists
-- [ ] 3_Tuples
-- [ ] 4_Sets
-- [ ] 5_Dictionaries
+- [x] 3_Tuples
+- [x] 4_Sets
+- [x] 5_Dictionaries
 - [ ] 6_Data_Structure_Methods
 
 ## 📂 5. Functions
@@ -89,7 +89,3 @@ This repository contains a structured journey to learn Python from the ground up
 - [ ] 1_Beginner_Exercises
 - [ ] 2_Small_Projects
 - [ ] 3_Problem_Solving_Platforms
-
----
-
-✅ Tick the boxes above as you complete each module!

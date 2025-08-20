@@ -1,6 +1,6 @@
 # 📘 Python Fundamentals Learning Path
 
-This repository contains a structured journey to learn Python from the ground up. A [x] will appear next to each section once completed.
+This repository contains a structured journey to learn Python from the ground up. A tick will appear next to each section once completed.
 
 ---
 
@@ -37,10 +37,10 @@ This repository contains a structured journey to learn Python from the ground up
 - [ ] 6_Data_Structure_Methods
 
 ## 📂 5. Functions
-- [ ] 1_Defining_Functions
-- [ ] 2_Arguments_and_Parameters
-- [ ] 3_Return_Values
-- [ ] 4_Default_and_Keyword_Arguments
+- [x] 1_Defining_Functions
+- [x] 2_Arguments_and_Parameters
+- [x] 3_Return_Values
+- [x] 4_Default_and_Keyword_Arguments
 - [ ] 5_Lambda_Functions
 - [ ] 6_Variable_Scope
 - [ ] 7_Recursion

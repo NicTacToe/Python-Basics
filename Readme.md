@@ -41,9 +41,9 @@ This repository contains a structured journey to learn Python from the ground up
 - [x] 2_Arguments_and_Parameters
 - [x] 3_Return_Values
 - [x] 4_Default_and_Keyword_Arguments
-- [ ] 5_Lambda_Functions
-- [ ] 6_Variable_Scope
-- [ ] 7_Recursion
+- [x] 5_Lambda_Functions
+- [x] 6_Variable_Scope
+- [x] 7_Recursion
 
 ## 📂 6. Modules and Packages
 - [ ] 1_Importing_Modules

@@ -46,10 +46,10 @@ This repository contains a structured journey to learn Python from the ground up
 - [x] 7_Recursion
 
 ## 📂 6. Modules and Packages
-- [ ] 1_Importing_Modules
-- [ ] 2_Creating_Modules
-- [ ] 3_Python_Standard_Library
-- [ ] 4_Virtual_Environments
+- [x] 1_Importing_Modules
+- [x] 2_Creating_Modules
+- [x] 3_Python_Standard_Library
+- [x] 4_Virtual_Environments
 
 ## 📂 7. Error Handling
 - [ ] 1_Try_Except_Blocks

@@ -52,10 +52,10 @@ This repository contains a structured journey to learn Python from the ground up
 - [x] 4_Virtual_Environments
 
 ## 📂 7. Error Handling
-- [ ] 1_Try_Except_Blocks
-- [ ] 2_Finally_Else
-- [ ] 3_Custom_Exceptions
-- [ ] 4_Common_Exceptions
+- [x] 1_Try_Except_Blocks
+- [x] 2_Finally_Else
+- [x] 3_Custom_Exceptions
+- [x] 4_Common_Exceptions
 
 ## 📂 8. Object-Oriented Programming
 - [ ] 1_Classes_and_Objects

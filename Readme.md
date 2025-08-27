@@ -58,12 +58,12 @@ This repository contains a structured journey to learn Python from the ground up
 - [x] 4_Common_Exceptions
 
 ## 📂 8. Object-Oriented Programming
-- [ ] 1_Classes_and_Objects
+- [x] 1_Classes_and_Objects
 - [ ] 2_Constructor_and_Destructor
 - [ ] 3_Inheritance
 - [ ] 4_Polymorphism
 - [ ] 5_Encapsulation
-- [ ] 6_Special_Methods_(dunder)
+- [x] 6_Special_Methods_(dunder)
 
 ## 📂 9. File Handling
 - [ ] 1_Reading_Files

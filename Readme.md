@@ -62,7 +62,7 @@ This repository contains a structured journey to learn Python from the ground up
 - [x] 2_Constructor_and_Destructor
 - [x] 3_Inheritance
 - [x] 4_Polymorphism
-- [ ] 5_Encapsulation
+- [x] 5_Encapsulation
 - [x] 6_Special_Methods_(dunder)
 
 ## 📂 9. File Handling

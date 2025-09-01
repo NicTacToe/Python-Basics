@@ -66,10 +66,10 @@ This repository contains a structured journey to learn Python from the ground up
 - [x] 6_Special_Methods_(dunder)
 
 ## 📂 9. File Handling
-- [ ] 1_Reading_Files
-- [ ] 2_Writing_Files
-- [ ] 3_File_Paths
-- [ ] 4_With_Context_Manager
+- [x] 1_Reading_Files
+- [x] 2_Writing_Files
+- [x] 3_File_Paths
+- [x] 4_With_Context_Manager
 
 ## 📂 10. Advanced Topics
 - [ ] 1_List_Comprehensions
